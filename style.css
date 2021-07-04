@@ -10,8 +10,20 @@ h1{font-size: 50px;}
 .headline{color:lightsalmon}
 section{display: flex;}
 
-.button{text-decoration: none;}
-.mergin{padding-left: 20px;
-margin: 50px;
+.button{text-decoration: none;
+background-image:linear-gradient(orange, orangered);
+padding: 10px 5px;
+color: white;
+font-weight: 400;
+border-radius: 2px;
+}
+.mergin{padding-left: 50px;
+margin: 20px;
+background-image: url(images/top-banner.png);
 }
 
+.isize{width: 50%;}
+.isize img{width: 80%;}
+
+
+   
