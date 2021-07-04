@@ -1,0 +1,17 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+font-family: 'Staatliches', cursive;
+font-family: 'Tourney', cursive;
+}
+h1{font-size: 50px;}
+.Jubayer-color{
+    color: orangered;
+}
+.headline{color:lightsalmon}
+section{display: flex;}
+
+.button{text-decoration: none;}
+.mergin{padding-left: 20px;
+margin: 50px;
+}
+
